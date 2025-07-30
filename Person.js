@@ -4,7 +4,7 @@ class Person {
 
   }
   sayMyName(){
-    console.log(`My name is ${this.name}`);
+    console.log(`Meu nome é ${this.name}`);
   }
 
 }
